@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.hero {
+    height: 100vh;
+    background: #f8f9fa;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.hero h1 {
+    font-size: 4rem;
+}
+.project {
+    padding: 20px;
+}
+.pic{
+    width: 300px; 
+    height: 300px;
+}
